@@ -20,7 +20,7 @@ frozen-collections = "0.8.0"
 tap = "1.0.1"
 fluent_result = { git = "https://github.com/MaxMahem/fluent_result.git" }
 collect_failable = { git = "https://github.com/MaxMahem/collect_failable.git" }
-thiserror = "2.0.17"
+thiserror = "2.0.18"
 serde = { version = "1.0.228", optional = true }
 
 [[test]]
