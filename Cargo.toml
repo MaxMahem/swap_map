@@ -16,7 +16,7 @@ authors = ["Austin Stanley <MaxTMahem@gmail.com>"]
 serde = ["dep:serde"]
 
 [dependencies]
-frozen-collections = "0.8.0"
+frozen-collections = "0.9.1"
 tap = "1.0.1"
 fluent_result = { git = "https://github.com/MaxMahem/fluent_result.git" }
 collect_failable = { git = "https://github.com/MaxMahem/collect_failable.git" }
